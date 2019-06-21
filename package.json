@@ -1,0 +1,11 @@
+{
+  "name": "serverless-grupo6",
+  "version": "1.0.0",
+  "description": "Serverless CRUD service exposing a REST HTTP interface",
+  "author": "Nahuel Lopez",
+  "license": "MIT",
+  "dependencies": {
+    "serverless-finch": "^2.4.2",
+    "uuid": "^2.0.3"
+  }
+}

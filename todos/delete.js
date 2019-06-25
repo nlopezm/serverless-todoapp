@@ -29,6 +29,10 @@ module.exports.delete = (event, context, callback) => {
     const response = {
       statusCode: 200,
       body: JSON.stringify({}),
+      headers: {
+        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Credentials': true,
+      },
     };
     callback(null, response);
   });

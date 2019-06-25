@@ -18,5 +18,11 @@ serverless deploy
 ## Remove
 
 ```bash
-serverless deploy
+serverless remove
+```
+
+## Redeploy a function
+
+```bash
+serverless deploy function -f functionName
 ```

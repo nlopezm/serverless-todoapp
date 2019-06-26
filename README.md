@@ -1,6 +1,8 @@
 # Serverless REST API
 
-This is a didactic demonstration on how to create a serverless TodoApp
+This is a didactic demonstration about how to create a serverless TodoApp.
+
+Visit https://serverless.com/ for more info.
 
 ## Setup
 
